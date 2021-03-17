@@ -97,6 +97,7 @@ To run this code you will need the Arduino IDE and several libraries (listed bel
 * Adafruit_SSD1306.h //OLED Library
 
   ```sh
+  #include <SPI.h>
   #include <Wire.h>
   #include <IRremote.h>//IR Library
   #include <Adafruit_GFX.h> //Display Library
