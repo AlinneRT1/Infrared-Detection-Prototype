@@ -134,6 +134,7 @@ Project Link: [https://github.com/AlinneRT1/Infrared-Detection-Prototype/blob/ma
 ## Acknowledgements
 * [Adafruit OLED Library](https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples)
 * [IR Remote LIbrary](https://github.com/Arduino-IRremote/Arduino-IRremote)
+* [READ.ME Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
 
 
 
