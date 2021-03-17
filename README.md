@@ -126,7 +126,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/AlinneRT1/Infrared-Detection-Prototype/blob/main/README.md](https://github.com/AlinneRT1/Infrared-Detection-Prototype/blob/main/README.md)
 
 
 
