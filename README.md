@@ -21,11 +21,11 @@
     A README section to explain our project!
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Project Binder</a>
+    <a href="https://docs.google.com/presentation/d/1KfYwGe0AA0E7Ch4aedEjBdQMeWxgiPScIx-qY8ihDGc/edit#slide=id.g8db07fa37a_0_17">Project Binder</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">YWPN Presentation</a>
+    <a href="https://docs.google.com/presentation/d/11XmQhKTzX6NftyJUHzmJs5xDNz7pBZND4y6fTvALAWo/edit#slide=id.p1">YWPN Presentation</a>
+     ·
   </p>
 </p>
 
